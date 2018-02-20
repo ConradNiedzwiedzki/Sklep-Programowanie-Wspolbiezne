@@ -1,0 +1,18 @@
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\bin\Debug\ProjektKonradNiedzwiedzki.exe.config
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\bin\Debug\ProjektKonradNiedzwiedzki.exe
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\bin\Debug\ProjektKonradNiedzwiedzki.pdb
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.csprojResolveAssemblyReference.cache
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.Sklep.resources
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.Properties.Resources.resources
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.csproj.GenerateResource.Cache
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.exe
+C:\Users\DELL1\Desktop\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.pdb
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\bin\Debug\ProjektKonradNiedzwiedzki.exe.config
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.exe
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.pdb
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\bin\Debug\ProjektKonradNiedzwiedzki.exe
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\bin\Debug\ProjektKonradNiedzwiedzki.pdb
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.csprojResolveAssemblyReference.cache
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.Sklep.resources
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.Properties.Resources.resources
+D:\Praca\Na GitHuba\ProjektKonradNiedzwiedzki\ProjektKonradNiedzwiedzki\obj\Debug\ProjektKonradNiedzwiedzki.csproj.GenerateResource.Cache
