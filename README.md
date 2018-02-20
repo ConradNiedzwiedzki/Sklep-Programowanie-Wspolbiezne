@@ -12,7 +12,7 @@ Drugim problemem jest implementacja dwóch rodzajów klientów: cierpliwych oraz
 Ze względu na przejrzystość pracy ilość klientów zredukowano do jednego klienta przypadającego w danym momencie na jedną półkę. Z tego samego powody ilość półek zredukowano do trzech.
 
 3.	Wykaz zasobów współdzielonych:
-•	Ekran
+•	Ekran;
 •	Półka nr 1;
 •	Półka nr 2;
 •	Półka nr 3;
